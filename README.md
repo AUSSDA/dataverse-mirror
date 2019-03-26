@@ -17,19 +17,12 @@ pip install -r requirements.txt
 
 ## USE
 
-**Download data**
-
-Pass api token
+Before you can start, pass environment variables.
 
 ```bash
 API_TOKEN_DOWN=<TOKEN>
 API_HOST_DOWN=<HOST>
 API_TOKEN_UP=<TOKEN>
 API_HOST_UP=<HOST>
-
 ```
-
-
-**Upload data**
-
 
