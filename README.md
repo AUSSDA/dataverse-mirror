@@ -1,6 +1,6 @@
-# CESSDA Dataverse API data cloning (Proof of Concept)
+# Dataverse Mirror
 
-A python script to show, that a Dataverse instance can be cloned via it's API. For this, we downloaded a set of datafiles with its parent datasets, and with their parent dataverses to the local storage. The metadata then gets transformed to the needed file-format for the upload of the dataverses, datasets and data files. Developed by [Stefan Kasberger](http://stefankasberger.at) for [AUSSDA - The Austrian Social Science Data Archive](http://aussda.at/).
+A python script to show, that the data and metadata of a Dataverse instance can be mirrored via it's API. For this, we downloaded a set of datafiles with its parent datasets, and with their parent dataverses to the local storage. The metadata then gets transformed to the needed file-format and structure for the upload. Developed by [Stefan Kasberger](http://stefankasberger.at) for [AUSSDA - The Austrian Social Science Data Archive](http://aussda.at/).
 
 **Copyright**
 
